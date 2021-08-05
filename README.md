@@ -1,0 +1,1 @@
+This is my first go through with a project using Git. The goal of this project is to use Git for a repository and how to use basic HTML to build a Google like homepage. Not everything on the page will work, but this will help me build on certain principles. 
